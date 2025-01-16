@@ -7,7 +7,6 @@ Redireccion Del Stdin A Un Fichero Y Ejecutar El Script
 # Autor: Daniel Benjamin Perez Morales
 # GitHub: https://github.com/DanielBenjaminPerezMoralesDev13
 # Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
-# Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
 # Correo electrónico: danielperezdev@proton.me
 
 from sys import exit, stdout

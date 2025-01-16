@@ -3,7 +3,6 @@
 # Autor: Daniel Benjamin Perez Morales
 # GitHub: https://github.com/DanielBenjaminPerezMoralesDev13
 # Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
-# Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
 # Correo electrónico: danielperezdev@proton.me 
 
 # Password: upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB

@@ -172,7 +172,6 @@ Redirección del stdin a un fichero y ejecutar el script
 # Autor: Daniel Benjamin Perez Morales
 # GitHub: https://github.com/DanielBenjaminPerezMoralesDev13
 # Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
-# Gitlab: https://gitlab.com/DanielBenjaminPerezMoralesDev13
 # Correo electrónico: danielperezdev@proton.me
 
 from sys import exit, stdout
